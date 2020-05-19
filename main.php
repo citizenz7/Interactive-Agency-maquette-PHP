@@ -20,7 +20,6 @@
 
   <!-- What we do section -->
   <div class="container">
-
     <div class="row">
       <div id="whatwedo" class="col-sm-12">
         <p class="lead-text1 text-center pt-5 pb-4">What we do?</p>
@@ -60,7 +59,6 @@
         <a href="#" class="myButton">Ask for price</a>
       </div>
     </div>
-
   </div>
 
   <!-- Porfolio section -->
@@ -70,8 +68,8 @@
         <img class="img-fluid" src="img/portfolio/Layer12.jpeg" alt="portfolio1">
       </div>
       <div id="portfolio-darken" class="col m-0 p-0">
-        <p class="text-white text-center lead pt-5 pb-1">Netptune Template</p>
-        <p class="text-small text-white text-center pb-1">Alliquam sagittis neque in lectus semper, nec elementus<br> aecuscelerisque. Curabitur ullamcorper auctor mauris,<br>placera fermentum.</p>
+        <p class="text-white text-center porfolio-resp-font1 pt-5 pb-1">Netptune Template</p>
+        <p class="porfolio-resp-font2 text-white text-center pb-1">Alliquam sagittis neque in lectus semper, nec elementus<br> aecuscelerisque. Curabitur ullamcorper auctor mauris,<br>placera fermentum.</p>
         <p class="text-center"><a href="#" class="myButton">Ask for price</a></p>
       </div>
       <div class="col m-0 p-0">
@@ -83,7 +81,7 @@
   <!-- About us -->
   <div class="container">
     <div class="row">
-      <div id="aboutus" class="col-sm-12 p-0 w-100 h-75">
+      <div id="aboutus" class="col-sm-12">
         <p class="text-white lead-text1 text-center pt-5 pb-1">About us!</p>
         <p class="text-small text-muted text-center pb-5">Alliquam sagittis neque in lectus semper, nec elementus aecuscelerisque. Curabitur ullam-<br>corper auctor mauris, placera fermentum.</p>
         <div class="row text-center photos">
